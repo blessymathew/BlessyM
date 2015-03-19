@@ -1,11 +1,23 @@
+<<<<<<< HEAD
 Package: BlessyM
+=======
+Package: Power
+>>>>>>> d88941f0e75a5faf89717c77fa700ca978042c80
 Type: Package
 Title: What the package does (short line)
 Version: 1.0
 Date: 2015-03-19
+<<<<<<< HEAD
 Author: Blessy Mathew
 Maintainer: Who to complain to <Blessy@somewhere.net>
 Description: More about what it does (maybe more than one line)
 License: What license is it under?
 URL: http://github.com/blessymathew/BlessyM
+=======
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+URL: http://github.com/blessymathew/Power
+>>>>>>> d88941f0e75a5faf89717c77fa700ca978042c80
 
